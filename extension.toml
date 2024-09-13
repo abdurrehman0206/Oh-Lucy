@@ -2,7 +2,7 @@ id = "oh-lucy"
 name = "oh-lucy"
 version = "0.0.1"
 schema_version = 1
-description = "Oh Lucy Theme"
+description = "Oh Lucy Theme for Zed. Based on the Oh Lucy theme for VS Code."
 repository = "https://github.com/abdurrehman0206/Oh-Lucy"
 authors = ["Abdur Rehman <abdurrehmansaleem5@gmail.com>"]
 themes = ["themes/oh-lucy.json"]
@@ -13,3 +13,5 @@ languages = []
 [grammars]
 
 [language_servers]
+
+[slash_commands]
