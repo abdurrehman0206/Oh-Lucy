@@ -1,0 +1,15 @@
+id = "oh-lucy"
+name = "oh-lucy"
+version = "0.0.1"
+schema_version = 1
+description = "Oh Lucy Theme"
+repository = "https://github.com/abdurrehman0206/Oh-Lucy"
+authors = ["Abdur Rehman <abdurrehmansaleem5@gmail.com>"]
+themes = ["themes/oh-lucy.json"]
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
