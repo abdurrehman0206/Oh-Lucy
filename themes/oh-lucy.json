@@ -7,8 +7,8 @@
 			"name": "Oh Lucy",
 			"appearance": "dark",
 			"style": {
-				"border": "#1a1d2700",
-				"border.variant": "#1a1d27",
+				"border": "#14161e",
+				"border.variant": "#af98e60f",
 				"border.focused": "#af98e6",
 				"border.selected": "#af98e6",
 				"border.transparent": "#ff0022",
@@ -65,6 +65,8 @@
 				"warning.background": "#14161e",
 				"hint.background": "#14161e",
 				"info.background": "#14161e",
+				"modified": "#FFDD89FF",
+				"created": "#62E6CAFF",
 				"syntax": {
 					"attribute": { "color": "#51c7da" },
 					"boolean": { "color": "#af98e6" },
